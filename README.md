@@ -5,7 +5,7 @@ Getting audio features from each song in each album of your favourite artist(s) 
 ## Getting Started
 
 1. Install dependencies (Spotipy, pandas and matlplotlib)
-2. Make an app on [https://developer.spotify.com](https://developer.spotify.com) and get your cliend ID and client secret.
+2. Make an app on [https://developer.spotify.com](https://developer.spotify.com) and get your client ID and client secret.
 3. Create a python script called `app_credentials.py` and copy and paste your client ID and client secret like so:
 ```
 client_id = 'COPY_PASTE_YOUR_CLIENT_ID_HERE'
